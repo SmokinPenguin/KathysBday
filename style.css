@@ -1,0 +1,18 @@
+h1 {
+  color: purple;
+  font-weight: bold;
+  font-size: 55px;
+}
+
+table, th, td {
+  border: 0.5px solid black;
+}
+
+td {
+  padding: 2.5px;
+}
+
+#wish {
+  color: green;
+  font-size: 30px;
+}
